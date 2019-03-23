@@ -70,4 +70,3 @@ def get_average_age_for_season(data, season)
   averagez.round
 end
 
-get_average_age_for_season(js_hash, "season 10")
